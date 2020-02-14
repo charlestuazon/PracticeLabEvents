@@ -1,3 +1,5 @@
+/*Name this external file gallery.js*/
+
 function upDate(previewPic){
      var add = previewPic.src;
           document.getElementById("image").innerHTML = previewPic.alt;
